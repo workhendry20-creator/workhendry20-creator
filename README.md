@@ -1,36 +1,37 @@
 # Hi there, I'm Hendry Bambang Siswanto 👋
 
-> **Web Developer & Data Enthusiast** | Building scalable web applications & exploring data insights.
+<p align="left">
+  <b>Full-Stack Software Engineer & Data Analyst</b> | Double Degree Fresh Graduate in <b>Information Systems</b> & <b>Computational Physics</b>
+</p>
+
+<p align="left">
+  <a href="https://hendrybambang.web.id"><img src="https://img.shields.io/badge/Website-hendrybambang.web.id-007ACC?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Hendry%20Bambang-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:workhendry20@gmail.com"><img src="https://img.shields.io/badge/Email-workhendry20%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/workhendry20-creator"><img src="https://img.shields.io/badge/GitHub-workhendry20--creator-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-### 💫 About Me
-- 🔭 Currently working on **Modern Web Applications & Data Analytics**
-- 🌱 Learning & expanding in **Full-Stack Development, Next.js, and Data Science**
-- 🤝 Open for collaboration on **Open Source & Web Projects**
-- 💬 Ask me about **TypeScript, React, Next.js, Python, and Data Analysis**
+### 🚀 About Me
+
+- 🎓 **Double Degree Graduate**: S1 Information Systems & S1 Computational Physics.
+- 💼 **Founder & Lead Developer** at **[Webtizen.id](https://hendrybambang.web.id)** — Building digital solutions & web platforms for local MSMEs.
+- 🔬 **Ex-International Research Intern** at **Universiti Sains Malaysia** — Engineered Computer Vision & Deep Learning pipelines for radiometric thermal imaging & custom web physics engines.
+- 🏛️ **Deputy Chair** at **Indonesian Youth Diplomacy (IYD) West Java** (2025–Present).
+- 🤖 **AI-Augmented Workflows**: Experienced in leveraging Cursor, GitHub Copilot, Gemini Code Assist, and Claude to accelerate SDLC & ML pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skillset
 
-**Frontend & Design**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Development** | React.js, Next.js, TypeScript, JavaScript (ES6+), Tailwind CSS, Framer Motion, HTML5, CSS3 |
+| **Backend & Databases** | Node.js, Python, SQL, PostgreSQL, MySQL, Supabase, MongoDB |
+| **Data Science & ML/DL** | Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, OpenCV, Keras, Tableau, Matplotlib, Seaborn, IBM SPSS |
+| **Cloud & DevOps** | Google Cloud Platform (GCP), Amazon Web Services (AWS), Docker, Vercel, GitHub Actions |
+| **AI & Developer Tools** | Cursor, GitHub Copilot, Gemini Code Assist, Postman, Figma, Git, Jupyter Notebook, Google Colab |
 
 ---
 
@@ -43,12 +44,17 @@
 
 ---
 
-### 📌 Featured Projects
-- **[SITKA Application]**: Web-based platform featuring multi-role dashboards for education management.
-- **[Personal Portfolio]**: Modern web portfolio built with Next.js, TypeScript, and Motion.
+### 🏆 Key Certifications
+- 📜 **Prompt Engineering for Software Developer** — *Dicoding Indonesia (2026)*
+- 📜 **Intelligent by Design: Build an AI Agent** — *IBM (2026)*
+- 📜 **Fundamentals of Machine Learning and AI** — *AWS (2026)*
+- 📜 **Intro to Machine Learning** — *Kaggle (2026)*
+- 📜 **International SQL and Relational Databases** — *IBM (2024)*
+
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<p align="center">
+  <i>Let's connect and build something impactful together!</i><br/>
+  <b>Bandung, West Java, Indonesia</b>
+</p>
